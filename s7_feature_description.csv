@@ -1,0 +1,23 @@
+Features,Description
+Density,1 if respondent resides within 2km from the Central Bussiness District
+Distance,Average travel distance to work in kilometres
+Time,Average travel time to work in minutes
+Gender,1 if respondent is a male
+Age,Age of the respondents
+MaritalStatus,1 if respondent is maried
+HouseholdSize,Household size of the respondent
+CHS,Number of childered in the respondent household
+OcR,1 if respondent is a senior staff
+IncomeT,"Average monthly income of the respondent in GH¢1,000.00"
+METT,"Average monthly expenditure on transport in GH¢1,000.00"
+BLanes,1 if the respondent agrees that there is adequate provision of non-motorized infrastructure
+MBus,1 if the respondent is willing to shift to a Metro Bus service
+walking_cycling,1 if respondent mode choice is Walking/Bicycle
+M_motocycle,1 if respondent mode choice is motorcycle
+M_car,1 if respondent mode choice is car
+tricycle_taxi,1 if respondent mode choice is tricycle-taxi
+taxi,1 if respondent mode choice is taxi
+Secondary_lower,1 if respondent level of education is Secondary School or lower
+HND,1 if respondent level of education is Higher National Diploma/Certificate/Diploma
+Degree,1 if respondent level of education is a Degree
+Posgraduate,1 if resondent level of education is a Posgraduate
